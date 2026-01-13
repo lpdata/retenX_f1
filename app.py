@@ -120,7 +120,7 @@ if not df.empty:
 
     # 3. Layout Final (Mantendo suas margens exatas)
     fig.update_layout(
-        title_text="<b>PAINEL DE REMATRÍCULAS</b>",
+        title_text="<b>PAINEL DE REMATRÍCULAS 2026</b>",
         title_x=0.5,
         title_font=dict(size=22, family="Arial"),
         font=dict(family="Arial", size=11),
